@@ -1,0 +1,31 @@
+body{
+	background-color: #232323;
+	margin: 0;
+	font-family: "Roboto";
+}
+
+#container{
+	margin: 20px auto;
+	max-width: 800px;
+	width: 80%;
+}
+
+.offline{
+	background-color: red;
+
+}
+
+a:link{
+	text-decoration: none;
+	color: black;
+}
+
+a:visited{
+	text-decoration: none;
+	color: black;
+}
+
+a:focus{
+	text-decoration: none;
+	color: black;
+}
